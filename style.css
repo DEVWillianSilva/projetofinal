@@ -1,0 +1,43 @@
+h2{
+    font-family: 'Fredericka the Great', serif;
+}
+body,a{
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+    margin: 0;
+}
+span{
+    color: #FF9900;
+}
+
+a{
+    color: #7D7987;
+    font-size: 19px;
+    font-weight: bold;
+}  
+
+    #hero{
+        width: 592px;
+        margin: 0 auto 72px
+    }
+    #hero img {
+        margin-bottom: 72px;
+    }
+
+    #footer a+a{
+        margin-left: 28px;
+    }
+
+    #line{
+        width: 568px;
+        height: 0px;
+        margin: 0 auto 8px;
+
+        border: 1px red solid;  
+    }
+
+    #balls-decoration{
+        position: fixed;
+        bottom: 0px;
+        right: 0px;
+    }
